@@ -1,6 +1,6 @@
 # LiveActris Artifact
 
-A version of LinearActris where Hoare triples not only guarantee the safety
+A version of [LinearActris](https://doi.org/10.5281/zenodo.8422755) where Hoare triples not only guarantee the safety
 properties of LinearActris (deadlock freedom and leak freedom) but also a new
 liveness property: **weak normalization for sequential steps**. That is, at any
 point during execution, it is always possible to make progress toward a state
